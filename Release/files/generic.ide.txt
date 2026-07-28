@@ -1,0 +1,1 @@
+3521, plc_stinger, plc_stinger, 1, 100, 128
